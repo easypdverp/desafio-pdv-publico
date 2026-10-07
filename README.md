@@ -1,5 +1,7 @@
 # Guia técnico da base
 
+O enunciado com as cinco histórias, critérios de aceitação e entregas está em [Desafio técnico](rota-clara-lab/README.md).
+
 Este arquivo descreve o que existe, sem prescrever a solução dos chamados.
 
 ## Execução e manutenção
