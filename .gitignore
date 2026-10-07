@@ -1,0 +1,5 @@
+# Apenas a aplicação deve entrar no versionamento desta pasta.
+# Avaliação, briefing externo, manifesto e pacotes ficam locais.
+/*
+!/.gitignore
+!/rota-clara-lab/
